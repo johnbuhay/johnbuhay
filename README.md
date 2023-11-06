@@ -48,14 +48,22 @@
 [![fluentd](https://img.shields.io/badge/fluentd-0E83C8?style=flat-square&logo=fluentd&logoColor=white)](https://www.fluentd.org/)
 
 # John Buhay
+I have accomplished a wide range of technical projects and many different types of roles. Most recently I’ve been working on both Developer Experience, and SRE responsibilities and projects.
 
-😄 Pronouns: he | him
+For Developer Experience, I have worked with multiple teams to provide engineers with a platform that meets their needs to create and maintain their products while observing business requirements, such as legal, security and continuity OKRs.
 
-⚡ Fun fact: I love the art my toddler makes.
+I have grown my personal skill set joining as a DevOps engineer, promoting DevOps culture, successfully implementing and facilitating adoption of many types of solutions, such as
+- CI/CD for all various types of projects across the Tech Org
+- deployment on kubernetes in many types of infrastructure
+- advocating for production readiness checklists that became scaffolding for all tech stacks
+- provided developer satisfaction using consolidated observability tools, CI/CD, and self service infrastructure and kubernetes resources
+
+As an SRE, establishing SLOs enabled our teams to adopt and define their internal or external SLAs. The Production Readiness Checklist includes best practices for high availability and reliability strategies, incident response and business continuity strategies and processes. To establish this policy, we included examples of definitions for monitoring metric indicators that achieve the product’s objectives. This is done using prometheus queries, RUM statistics and log analytics to generate both real time notifications and static reports.
+
+Staff Site Reliability Engineer with 16 years of experience implementing Information Technology solutions for WeWork and WeightWatchers in the real-estate and healthcare sectors. 8 years of experience operating and deploying diverse workloads on Kubernetes, with a strong focus on Cloud Native Computing Foundation (CNCF) technologies.
 
 ## Contributions and Open Source Involvement
 > I feel lucky to have had the opportunity to contribute to several open-source projects, one of my goals is to be able to do so more often. Collaborating with the community has helped me to develop professionally. 
-
 
 - 2021-12 Added [Sprig](https://github.com/Masterminds/sprig) for our [spotify/backstage](https://github.com/spotify/backstage) deployment - [jwilder/dockerize](https://github.com/jwilder/dockerize)
 <br/> Utility to simplify running applications in docker containers
